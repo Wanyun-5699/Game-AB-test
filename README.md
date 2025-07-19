@@ -25,7 +25,7 @@ No missing values were found in the dataset, but an extreme outlier was identifi
 
 ### Result:
 - p-value = **0.0509**
-- Interpretation: We fail to reject the null hypothesis → No significant difference in total game rounds between the two groups.
+- So we fail to reject the null hypothesis → No significant difference in total game rounds between the two groups.
 
 ## Retention Rate Analysis (Day 1 & Day 7)
 
